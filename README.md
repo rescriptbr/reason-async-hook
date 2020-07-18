@@ -29,8 +29,8 @@ let make = () => {
   <div>
     {
       switch(createUserState) {
-        | Idle => <Button onClick={submit}></Button>
-        | Loading => <Button onClick={submit}></Button>
+        | Idle => <button onClick={_ => onSubmit()}>"Create user"->React.string</button>
+        | Loading => <p>{"Loading..."->React.string}</p>
         | Error(error) => 
           <p>
             "User created with id #"->React.string
