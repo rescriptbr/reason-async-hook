@@ -15,6 +15,16 @@
         "ideas",
         "doc"
       ]
+    },
+    {
+      "login": "vmarcosp",
+      "name": "Marcos Oliveira",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/20327229?v=4",
+      "profile": "http://vmarcosp.dribbble.com",
+      "contributions": [
+        "doc",
+        "design"
+      ]
     }
   ],
   "contributorsPerLine": 7,
