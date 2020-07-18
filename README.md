@@ -7,6 +7,7 @@ Allowing you to pass additional arguments for the call using currying.
 [@react.component]
 let make = () => {
   let (AsyncHook.{state: createUserState}, createUser) = AsyncHook.use((~cb, ~name, ~age) => cb(() => {
+    // It accepts anything that returns a Promise.t(result('a, 'e))
     fetch("/use r", ~params={
       name,
       age,
