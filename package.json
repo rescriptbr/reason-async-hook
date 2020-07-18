@@ -1,0 +1,14 @@
+{
+  "name": "reason-async-hook",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "bs-platform": "^7"
+  },
+  "dependencies": {
+    "reason-promise": "^1.1.1",
+    "reason-react": "^0.9.1",
+    "reason-react-update": "^2.0.0"
+  }
+}
