@@ -5,7 +5,7 @@ Um hook simples para lidar de forma sana com promises em ReasonReact permitindo 
 ```reason
 [@react.component]
 let make = () => {
-  let (createUser, createUserState) = AsyncHook.use((~cb, ~name, ~age) => cb(() => {
+  let ({state: createUserState}, createUser) = AsyncHook.use((~cb, ~name, ~age) => cb(() => {
     fetch("/user", ~params={
       name,
       age,
