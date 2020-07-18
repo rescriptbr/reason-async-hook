@@ -11,8 +11,7 @@ let make = () => {
       name,
       age,
     })
-  }))
-
+  }));
 
   let onSubmit= () => {
     createUser(~name=form.values.name, ~age=form.values.age)
@@ -23,7 +22,7 @@ let make = () => {
     |> Promise.getOk(result => {
       Js.log("Success!")
     })
-  }
+  };
 
   // or use the declarative mode
   <div>
