@@ -65,4 +65,4 @@ Promises são apenas melhores com reason-promise!
 # How does it work
 
 A lib apenas usa o currying por padrão e a inferência de tipos mágica do ReasonML.
-`reason-promise` roda encima das promises JavaScript mas ele adiciona mais funcionalidades a elas, e uma delas é o suporte ao tipo `result`. Permitindo controle fino sobre o fluxo da chamada e permitindo _railway programming_.
+`reason-promise` roda em cima das promises JavaScript mas ele adiciona mais funcionalidades a elas, e uma delas é o suporte ao tipo `result`. Permitindo controle fino sobre o fluxo da chamada e permitindo _railway programming_.
