@@ -25,11 +25,20 @@
         "doc",
         "design"
       ]
+    },
+    {
+      "login": "guilhermedeandrade",
+      "name": "Guilherme de Andrade",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/8797405?v=4",
+      "profile": "http://guilherme.codes",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
   "projectName": "reason-async-hook",
-  "projectOwner": "reasonbrazil",
+  "projectOwner": "reasonbr",
   "repoType": "github",
   "repoHost": "https://github.com",
   "skipCi": true
