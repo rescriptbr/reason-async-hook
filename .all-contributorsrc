@@ -1,0 +1,45 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "fakenickels",
+      "name": "Gabriel Rubens",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1283200?v=4",
+      "profile": "http://es77.fakenickels.dev",
+      "contributions": [
+        "code",
+        "ideas",
+        "doc"
+      ]
+    },
+    {
+      "login": "vmarcosp",
+      "name": "Marcos Oliveira",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/20327229?v=4",
+      "profile": "http://vmarcosp.dribbble.com",
+      "contributions": [
+        "doc",
+        "design"
+      ]
+    },
+    {
+      "login": "guilhermedeandrade",
+      "name": "Guilherme de Andrade",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/8797405?v=4",
+      "profile": "http://guilherme.codes",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "reason-async-hook",
+  "projectOwner": "reasonbr",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
