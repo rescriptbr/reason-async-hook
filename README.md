@@ -1,10 +1,20 @@
-# AsyncHook ⏳ 🎣
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-A simple hook for sane promise handling for ReasonReact.
-Allowing you to pass additional arguments for the call using currying.
+<p align="center">
+  <br />
+  <img src="./assets/logo.svg" width="700" /> 
+</p>
+<p align="center">
+   <a href="#installation">Installation</a> • 
+   <a target="_blank" href="#usage">Usage</a> •
+   <a target="_blank" href="#how-does-it-work">How does it work</a>
+</p>
+<br/>
+<br/>
+
+## Usage
 
 ```reason
 [@react.component]

@@ -1,6 +1,14 @@
-# AsyncHook ⏳ 🎣
-
-Um hook simples para lidar de forma sana com promises em ReasonReact permitindo que você passe argumentos para a chamada.
+<p align="center">
+  <br />
+  <img src="./assets/logo-pt-br.svg" width="700" /> 
+</p>
+<p align="center">
+   <a href="#installation">Installation</a> • 
+   <a target="_blank" href="#usage">Usage</a> •
+   <a target="_blank" href="#how-does-it-work">How does it work</a>
+</p>
+<br/>
+<br/>
 
 ```reason
 [@react.component]
